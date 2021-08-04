@@ -1,0 +1,41 @@
+
+h2 { text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: grey;
+}
+p {font-size: 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-family: 16px;}
+.box-one {
+    border: 3px double grey;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 80%;
+    
+}
+.box-two{
+    border: 3px double grey;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.approved{
+    border-color: green;
+    color: green;
+    
+}
+.declined{
+    border-color: red;
+    color: red;
+
+}
